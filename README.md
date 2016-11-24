@@ -1,6 +1,6 @@
 # awesome-docs
 
-Collective list of documentation that is awesome, sorted by language/feature/platform
+Collective list of documentation that is awesome, sorted by language/feature/platform (whatever is most relevant)
 
 ### CSS
 
